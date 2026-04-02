@@ -74,7 +74,7 @@ Request → URL Router → View → Permission Check
 ### Installation
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/finledger.git
+git clone https://github.com/udayyyy-09/Finledger.git
 cd finledger
 
 # 2. Create and activate virtual environment

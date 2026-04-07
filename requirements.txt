@@ -1,8 +1,8 @@
 # Core Django Framework
 Django==4.2.29
-djangorestframework==3.17.1
+djangorestframework>=3.14,<3.17
 djangorestframework-simplejwt==5.5.1
-django-filter==25.2
+django-filter==25.1
 
 # Database Backend
 psycopg2-binary==2.9.11
